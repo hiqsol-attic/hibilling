@@ -1,0 +1,27 @@
+# vendor dirs
+vendor
+
+# composer lock files
+composer.lock
+
+# hidev composer.json
+.hidev/composer.json
+
+# hidev internals
+.hidev/composer.lock
+.hidev/vendor
+
+# IDE & OS files
+.*.swp
+.idea
+nbproject
+.buildpath
+.project
+.settings
+Thumbs.db
+.DS_Store
+
+# environmental files
+yii
+*/web/index*.php
+*/config/*-local*

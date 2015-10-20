@@ -1,0 +1,11 @@
+package:
+    name:           hibilling
+    label:          HiBilling
+    title:          HiQDev HiBilling
+    type:           project
+    keywords:       hibilling, billing, invoicing
+    description:    HiQDev HiBilling
+
+require:
+    hiqdev/hidev-config:        "*"
+    hiqdev/hidev-config-php:    "*"
