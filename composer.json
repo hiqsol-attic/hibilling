@@ -43,8 +43,7 @@
         }
     ],
     "require": {
-        "php": "~5.4",
-        "hiqdev/hiam-core": "*@dev"
+        "hiqdev/hibilling-core": "*@dev"
     },
     "autoload": {
         "psr-4": {
